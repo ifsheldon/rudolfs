@@ -1,4 +1,4 @@
 max_width = 80
-format_strings = true
-normalize_comments = true
-wrap_comments = true
+# format_strings = true
+# normalize_comments = true
+# wrap_comments = true
